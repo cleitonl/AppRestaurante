@@ -5,5 +5,6 @@ para instalar siga os passos abaixo
 
 na pasta faça o download, com o nó e reaja ao nativo e emulador android, selecione:
 
-instalação npm
-react-native run-android
+1. npm install
+
+2. react-native run-android
